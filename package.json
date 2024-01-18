@@ -1,0 +1,28 @@
+{
+  "name": "infinite-bot",
+  "version": "1.0.0",
+  "description": "Multifunctional Discord bot from the company InfiniteHorizons Inc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maicol-19ty/Infinite-Bot.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "19ty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maicol-19ty/Infinite-Bot/issues"
+  },
+  "homepage": "https://github.com/Maicol-19ty/Infinite-Bot#readme",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "node-fetch": "^3.3.2",
+    "np": "^9.2.0"
+  }
+}

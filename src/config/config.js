@@ -2,7 +2,7 @@ module.exports = {
     server: {
         domain: "infinitehorizon.me",
         port: 8080,
-        https: false
+        https: true,
     },
 
     Discord: {

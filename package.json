@@ -2,7 +2,7 @@
   "name": "infinite-bot",
   "version": "1.0.0",
   "description": "Multifunctional Discord bot from the company InfiniteHorizons Inc",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "test"
   },
@@ -20,9 +20,17 @@
   },
   "homepage": "https://github.com/Maicol-19ty/Infinite-Bot#readme",
   "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "axios": "^1.6.5",
+    "body-parser": "^1.20.2",
     "canvas": "^2.11.2",
     "discord.js": "^14.14.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
     "node-fetch": "^3.3.2",
-    "np": "^9.2.0"
+    "np": "^9.2.0",
+    "openssl": "^2.0.0",
+    "signale": "^1.4.0"
   }
 }
